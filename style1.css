@@ -1,0 +1,47 @@
+/*body{
+  background-color: #EAF6F6;
+}
+.h1style{
+  color : navy;
+  background-color: white;
+}
+
+div{
+  background-color: #EAF6F6;
+}
+body {
+ margin: 0;
+
+}
+h1{
+  margin-top:  0;
+}
+
+*/
+
+
+.topClass{
+  background-color: #EAF6F6;
+  height: 200px;
+  width: 200px;
+  border:solid 10px;
+  padding: 20px;
+
+
+}
+.midClass{
+  background-color: red;
+  height: 200px;
+  width: 200px;
+  border:solid 20px;
+  background-color: green;
+  margin-left: 260px;
+}
+.buttonClass{
+  background-color: blue;
+  height: 200px;
+  width: 200px;
+  border:solid 10px;
+  margin-left: 500px;
+
+}
