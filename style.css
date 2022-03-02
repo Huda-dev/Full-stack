@@ -1,0 +1,56 @@
+
+
+body {
+      background-color: #EAF6F6;
+        margin:  10px;
+}
+
+hr{
+  border-style: none;
+  border-color:#778899;
+  width: 10%;
+  border-top-style: dotted;
+  border-width: 7px;
+}
+
+h3{
+  color: #66bfbf;
+}
+
+h1{
+  color: #66bfbf;
+}
+img{
+  background-color: red;
+}
+
+
+.red{
+  height: 100px;
+  width: 100px;
+  background-color: red;
+    display: inline-block;
+  position: relative;
+  left: 200px;
+
+
+}
+.blue{
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+    display: inline-block;
+  position: relative;
+  right: 95px;
+
+}
+.yallow{
+  height: 100px;
+  width: 100px;
+  background-color: gold;
+  display: inline-block;
+  position: relative;
+  right: 100px;
+
+
+}
