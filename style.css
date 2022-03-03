@@ -2,7 +2,10 @@
 
 body {
       background-color: #EAF6F6;
-        margin:  10px;
+      font-family: 'Merriweather', serif;
+      text-align: center;
+      margin: 0;
+
 }
 
 hr{
@@ -11,27 +14,61 @@ hr{
   width: 10%;
   border-top-style: dotted;
   border-width: 7px;
+padding: 30px
 }
 
-h3{
-  color: #66bfbf;
+h2{
+  color: #66BFBF;
+
+}
+h2-font{
+    font-size: 14rem;
+
 }
 
 h1{
-  color: #66bfbf;
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  font-size: 70px;
+  text-align: center;
+
 }
-img{
-  background-color: red;
+h3{
+  color: #11999E;
+
 }
 
+.p-class{
+  width: 50%;
+margin: 100px auto;
+text-align: left;
+  line-height: 2;
+}
+
+img{
+}
+
+.link-color{
+  color: red;
+
+
+}
+
+.skill-row{
+  width: 50%;
+margin: 100px auto;
+text-align: left;
+line-height: 2;
+}
 
 .red{
   height: 100px;
   width: 100px;
+  margin: 0;
   background-color: red;
-    display: inline-block;
-  position: relative;
-  left: 200px;
+  position:relative;
+
+
 
 
 }
@@ -39,18 +76,41 @@ img{
   height: 100px;
   width: 100px;
   background-color: blue;
-    display: inline-block;
-  position: relative;
-  right: 95px;
+  position: absolute;
+  left:   100px;
+  top:  200px;
+
 
 }
 .yallow{
   height: 100px;
   width: 100px;
   background-color: gold;
-  display: inline-block;
-  position: relative;
-  right: 100px;
-
+  position: absolute;
+  left: 200px;
+  top: 200px;
 
 }
+
+.img-cop{
+  width: 25%;
+  margin-right: 30px;
+  float: left;
+}
+
+.img-comp{
+  padding: 30px;
+  float:right;
+}
+.img-cop1{
+  width: 15%;
+  padding: 30px;
+  position: relative;
+  margin: 0,0,200,0
+  bottom: 220px;
+
+}
+/*
+.parg{
+  clear: right;
+}*/
